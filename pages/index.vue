@@ -78,7 +78,7 @@
                   p-1
                 "
               >
-                Rs. 11511/mo
+                Rs. 11511/mo (12)
               </button>
             </div>
             <div class="pt-3">
@@ -92,7 +92,7 @@
                   p-1
                 "
               >
-                Rs. 9856/mo
+                Rs. 9856/mo (24)
               </button>
             </div>
           </div>
@@ -137,7 +137,7 @@
                   p-1
                 "
               >
-                Rs. 7896/mo
+                Rs. 7896/mo (18)
               </button>
             </div>
             <div class="pt-3">
@@ -151,7 +151,7 @@
                   p-1
                 "
               >
-                Rs. 6541/mo
+                Rs. 6541/mo (30)
               </button>
             </div>
           </div>
@@ -160,7 +160,7 @@
     </div>
     <div class="flex justify-center">
       <p class="text-2xl mx-8">Total Price</p>
-      <p class="text-2xl mx-16">Rs.1,90,000</p>
+      <p class="text-2xl mx-16">Rs.1,90,000/-</p>
     </div>
   </div>
 </template>
